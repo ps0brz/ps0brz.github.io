@@ -188,6 +188,10 @@ h1,h2,h3{
     text-align: justify;
 }
 
+.pservicio{
+    padding:1rm;
+}
+
 .servicio .icono{
     height: 15rem;
     width: 15rem;
